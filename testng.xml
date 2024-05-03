@@ -10,7 +10,7 @@
 			<class name="com.leafBot.testcases.TC007_MergeLead" />
 		</classes>
 	</test>
-<test name="Contacts">
+<!--  <test name="Contacts">
 		<classes>
 			<class name="com.leafBot.testcases.TC008_CreateContact" />
 			<class name="com.leafBot.testcases.TC009_EditContact" />
@@ -18,7 +18,7 @@
 			<class name="com.leafBot.testcases.TC011_MergeContact" />
 		</classes>
 	</test>
-<!--  <test name="Accounts">
+<test name="Accounts">
 		<classes>
 			<class name="com.leafBot.testcases.TC012_CreateAccount" />
 			<class name="com.leafBot.testcases.TC013_EditAccount" />
